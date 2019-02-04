@@ -4,5 +4,5 @@ Dit is een wijziging!
 
 function test() {
   print("hoi");
-  // This looks like python!
 }
+  // This looks like python!
