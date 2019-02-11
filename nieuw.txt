@@ -5,4 +5,9 @@ Dit is een wijziging!
 function test() {
   print("hoi");
 }
-  // This looks like python!
+// This looks like python!
+
+function test2() {
+  print("hoi");
+  print("Geen merge-conflict? Of toch wel?");
+}
