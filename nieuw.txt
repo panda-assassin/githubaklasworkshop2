@@ -1,8 +1,1 @@
-Dit is een nieuw bestand.
-
-Dit is een wijziging!
-
-function test() {
-  print("hoi");
-}
-  // This looks like python!
+iets beters
